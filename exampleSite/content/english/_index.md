@@ -3,9 +3,9 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Jakub Kuedziel <br/>  Design Agency
+  content: I love the Web and the work we do. I work closely with our clients to deliver  the
+    best possible solutions for their needs
   button:
     enable: true
     label: Discover Our Project
