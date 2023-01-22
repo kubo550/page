@@ -57,7 +57,7 @@ funfacts:
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics'"
   funfact_item:
-  - icon: fas fa-brands fa-stack-overflow
+  - icon: fa-brands fa-stack-overflow
     name: Stack Overflow Rep
     count: "2560"
   - icon: fas fa-glasses
