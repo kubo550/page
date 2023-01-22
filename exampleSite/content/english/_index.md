@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: Jakub Kuedziel <br/>  Design Agency
+  title: Jakub Kurdziel <br/>  Hello world
   content: I love the Web and the work we do. I work closely with our clients to deliver  the
     best possible solutions for their needs
   button:
