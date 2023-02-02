@@ -13,10 +13,15 @@ banner:
 about:
   enable: true
   title: About Me
-  description: Nazywam się Jakub Kurdziel asnda
+  description: Nazywam się Jakub Kurdziel
   content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, '
   image: images/wrapper-img.png
+  funfacts:
+  - count: ''
+  - icon: ''
+    name: ''
+    count: ''
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
